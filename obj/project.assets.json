@@ -12939,11 +12939,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kapil\\OneDrive\\Documents\\SmartAmperesCode\\SmartAmperes_Server\\SmartAmperes_Server.csproj",
+      "projectUniqueName": "C:\\Users\\Kapil\\Source\\Repos\\SmartAmperesServer\\SmartAmperes_Server.csproj",
       "projectName": "SmartAmperes_Server",
-      "projectPath": "C:\\Users\\Kapil\\OneDrive\\Documents\\SmartAmperesCode\\SmartAmperes_Server\\SmartAmperes_Server.csproj",
+      "projectPath": "C:\\Users\\Kapil\\Source\\Repos\\SmartAmperesServer\\SmartAmperes_Server.csproj",
       "packagesPath": "C:\\Users\\Kapil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kapil\\OneDrive\\Documents\\SmartAmperesCode\\SmartAmperes_Server\\obj\\",
+      "outputPath": "C:\\Users\\Kapil\\Source\\Repos\\SmartAmperesServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
